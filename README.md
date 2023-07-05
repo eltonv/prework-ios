@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of the app:
 https://imgur.com/a/FPwsTbU
 
-<img src='https://imgur.com/a/FPwsTbU' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/FPwsTbU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
