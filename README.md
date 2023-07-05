@@ -16,6 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of the app:
+https://imgur.com/a/FPwsTbU
 
 <img src='https://imgur.com/a/FPwsTbU' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
